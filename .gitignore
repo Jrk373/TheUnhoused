@@ -1,4 +1,24 @@
+# Full folder ignores
+
+
 # History files
+#
+#
+#
+# Folders to ignore
+archive
+data
+documents
+images
+reports
+powerBI
+source
+SQL
+
+*.rpt
+
+*.rpt
+
 .Rhistory
 .Rapp.history
 
